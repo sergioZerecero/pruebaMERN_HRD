@@ -1,0 +1,13 @@
+.general {
+  width: 100%;
+  height: 100vh;
+}
+
+.menuStyle {
+  width: 30%;
+}
+
+.page {
+  width: 70%;
+  height: 100%;
+}

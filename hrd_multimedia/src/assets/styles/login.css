@@ -1,0 +1,18 @@
+.background {
+  background-image: url('../images/backgroundLogin.jpg');
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.divContent {
+  padding: 5em;
+  padding-top: 0;
+  border-radius: 1em;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: rgba(237, 237, 223, 0.52);
+}
